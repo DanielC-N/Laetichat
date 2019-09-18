@@ -1,4 +1,4 @@
-# flutter_counter
+# Laetichat
 
 A new Flutter project.
 
